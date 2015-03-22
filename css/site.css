@@ -221,7 +221,7 @@ a {
   position: absolute;
   top: 20px;
   left: 40px;
-  transition: all 0.5s ease;
+  transition: left 0.5s ease;
 }
 
 
@@ -236,7 +236,6 @@ a {
 .header span{
   padding-left: 5px;
   font-size: 26px;
-  transition: all 0.5s ease;
 }
 
 .table {
